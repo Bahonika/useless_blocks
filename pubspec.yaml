@@ -37,6 +37,7 @@ dependencies:
   shared_preferences: ^2.0.8
   google_fonts: ^2.1.0
   audioplayers: ^0.20.1
+  flutter_bloc: ^8.0.1
 
 dev_dependencies:
   flutter_test:
